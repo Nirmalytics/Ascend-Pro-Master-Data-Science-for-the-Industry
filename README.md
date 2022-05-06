@@ -3,7 +3,7 @@ This is to document what I've learned with 'Ascend Pro Master Data Science for t
 
 <h3 align="center"> The course contains basic and advanced MS Excel, Tableau, Python, Exploratory Data Analysis & various Statistical Measures, Evaluation Metrics & Validation Techniques, Understanding math behind various algorithms like KNN, Linear Regression, Logistic Regression, Decision Tree, Basics of Feature Engineering, Selection of Right ML Models, Dimensionality Reduction Techniques, Understanding Unsupervised Learning techniques like clustering, Factor Analysis and PCA, Handling Text and Image Data, Naive Bayes, SVM, Various Recommendation Systems, Ensemble Techniques, Hyper Parameter Tuning, Time Series forecasting, ARIMA and Prophet, Basics of Deep Learning, Forward and Backward Propagation, Introduction to Keras, Google Colab, Software Engineering Fundamentals like version control, Databases like MySQL, Data Analysis using SQL, NoSQL Databases including MongoDB, Cloud Computing - AWS ecosystem, Big Data technologies like Spark Ecosystem, Distributed processing using Apache Spark - Data Frames, Spark SQL, Building Scalable ML Models using SparkML etc. My course ended with a Capstone Project on Employee Attrition Analytics and received very positive feedback from the KPMG India evaluators.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
